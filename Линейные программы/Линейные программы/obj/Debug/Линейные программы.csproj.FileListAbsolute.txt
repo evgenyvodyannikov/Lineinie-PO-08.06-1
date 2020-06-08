@@ -1,0 +1,10 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\Линейные программы №1\Линейные программы\Линейные программы\bin\Debug\Линейные программы.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\Линейные программы №1\Линейные программы\Линейные программы\bin\Debug\Линейные программы.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\Линейные программы №1\Линейные программы\Линейные программы\bin\Debug\Линейные программы.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\Линейные программы №1\Линейные программы\Линейные программы\obj\Debug\Линейные программы.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\Линейные программы №1\Линейные программы\Линейные программы\obj\Debug\Линейные_программы.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\Линейные программы №1\Линейные программы\Линейные программы\obj\Debug\Линейные_программы.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\Линейные программы №1\Линейные программы\Линейные программы\obj\Debug\Линейные программы.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\Линейные программы №1\Линейные программы\Линейные программы\obj\Debug\Линейные программы.csproj.CoreCompileInputs.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\Линейные программы №1\Линейные программы\Линейные программы\obj\Debug\Линейные программы.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\datagridview\Линейные программы №1\Линейные программы\Линейные программы\obj\Debug\Линейные программы.pdb
