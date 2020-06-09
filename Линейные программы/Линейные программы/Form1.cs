@@ -19,13 +19,20 @@ namespace Линейные_программы
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
+
             try
             {
                 const double inch = 2.54;
                 double s = Double.Parse(textBox1.Text);
-                textBox2.Text = Convert.ToString(s * inch / 100);
-                textBox3.Text = Convert.ToString(s * inch);
-                textBox4.Text = Convert.ToString(s * inch * 10);
+                double mm, sm, m;
+                sm = s * inch;
+                m = Math.Floor(sm / 100);
+                mm = (sm - Math.Floor(sm)) * 10;
+                sm -= (sm - Math.Floor(sm));
+                if (sm > 100) sm -= m * 100;
+                textBox2.Text = m.ToString();
+                textBox3.Text = sm.ToString("#.##");
+                textBox4.Text = string.Format("{0:0.##}", mm);
             }
             catch
             {
